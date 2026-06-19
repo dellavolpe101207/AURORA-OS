@@ -2,6 +2,6 @@
 
 in development
 
----------version----------
-auroraos = 1.0.0
+version\
+auroraos = 1.0.0\
 auroraconfig = 1.0.0
